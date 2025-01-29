@@ -1,0 +1,10 @@
+tasks:
+  up:
+    usage: start the development server
+    run: docker compose up -d
+  down:
+    usage: stop the development server
+    run: docker compose down
+  scss:
+    usage: compile SCSS files
+    run: docker run --rm -v $(pwd):/var/www -w /var/www node:alpine sh -c "npm install -g sass && sass src/scss/style.scss src/css/style.css"

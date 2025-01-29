@@ -8,7 +8,6 @@
                     <div class="card-product">
                         <a href="http://legendmc.docker.com/mouse.html">
                             <img src="https://placehold.co/250x250?text=LegendMC" alt="Mouse">
-                            <!-- <img src="http://legendmc.docker.com/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/d/o/download.jpeg" class="card-img-top" alt="Mouse"> -->
                         </a>
                         <div class="card-body-product">
                             <h3 class="card-title-product">
@@ -22,7 +21,7 @@
                 <div class="product">
                     <div class="card-product">
                         <a href="http://legendmc.docker.com/mouse-2.html">
-                            <img src="http://legendmc.docker.com/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/d/o/download.jpeg" alt="Mouse Razer">
+                            <img src="https://placehold.co/250x250?text=LegendMC" alt="Mouse Razer">
                         </a>
                         <div class="card-body-product">
                             <h3 class="card-title-product">
@@ -36,7 +35,7 @@
                 <div class="product">
                     <div class="card-product">
                         <a href="http://legendmc.docker.com/mouse-2.html">
-                            <img src="http://legendmc.docker.com/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/d/o/download.jpeg" alt="Mouse Razer">
+                            <img src="https://placehold.co/250x250?text=LegendMC" alt="Mouse Razer">
                         </a>
                         <div class="card-body-product">
                             <h3 class="card-title-product">
@@ -50,7 +49,7 @@
                 <div class="product">
                     <div class="card-product">
                         <a href="http://legendmc.docker.com/mouse-2.html">
-                            <img src="http://legendmc.docker.com/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/d/o/download.jpeg" alt="Mouse Razer">
+                            <img src="https://placehold.co/250x250?text=LegendMC" alt="Mouse Razer">
                         </a>
                         <div class="card-body-product">
                             <h3 class="card-title-product">
@@ -70,7 +69,6 @@
                     <div class="card-product">
                         <a href="http://legendmc.docker.com/mouse.html">
                             <img src="https://placehold.co/250x250?text=LegendMC" alt="Mouse">
-                            <!-- <img src="http://legendmc.docker.com/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/d/o/download.jpeg" class="card-img-top" alt="Mouse"> -->
                         </a>
                         <div class="card-body-product">
                             <h3 class="card-title-product">
@@ -84,7 +82,7 @@
                 <div class="product">
                     <div class="card-product">
                         <a href="http://legendmc.docker.com/mouse-2.html">
-                            <img src="http://legendmc.docker.com/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/d/o/download.jpeg" alt="Mouse Razer">
+                            <img src="https://placehold.co/250x250?text=LegendMC" alt="Mouse Razer">
                         </a>
                         <div class="card-body-product">
                             <h3 class="card-title-product">

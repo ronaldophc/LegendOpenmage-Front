@@ -8582,6 +8582,7 @@ header .logo img {
   color: black;
   display: flex;
   flex-direction: column;
+  width: 250px;
 }
 
 .home .category .products .product .card-product .card-body-product h3 a {

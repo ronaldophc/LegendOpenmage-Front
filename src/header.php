@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -14,7 +15,7 @@
     <link rel="apple-touch-icon" sizes="144x144" href="images/favicon/apple-icon-144x144.png">
     <link rel="apple-touch-icon" sizes="152x152" href="images/favicon/apple-icon-152x152.png">
     <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="images/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="images/favicon/android-icon-192x192.png">
     <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="96x96" href="images/favicon/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">
@@ -26,18 +27,19 @@
     <link rel="stylesheet" href="libs/bootstrap-5.3.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="scss/style.min.css">
 </head>
+
 <body>
     <header>
+        <div class="top-bar">
+            <div class="container">
+                <div class="content">
+                    <span><i class="fab fa-whatsapp"></i> legendmc.com.br</span>
+                    <a href="discord.gg"><i class="fab fa-whatsapp"></i> Discord</a>
+                </div>
+            </div>
+        </div>
         <nav class="navbar navbar-expand-lg">
             <div class="container">
-
-                <!-- WhatsApp (Visible on large screens) -->
-                <!-- <div class="d-none d-lg-block">
-                    <a href="https://api.whatsapp.com/send/?phone=42984147386" target="_blank">
-                        <i class="fab fa-whatsapp"></i>
-                        (42) 98414-7386
-                    </a>
-                </div> -->
 
                 <!-- Logo -->
                 <div class="logo">

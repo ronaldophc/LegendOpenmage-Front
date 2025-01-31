@@ -25,7 +25,7 @@
     <meta name="theme-color" content="#ffffff">
     <title>LegendMC</title>
     <link rel="stylesheet" href="libs/bootstrap-5.3.3/css/bootstrap.min.css">
-    <link rel="stylesheet" href="scss/style.min.css">
+    <link rel="stylesheet" href="css/style.min.css">
 </head>
 
 <body>
@@ -33,8 +33,8 @@
         <div class="top-bar">
             <div class="container">
                 <div class="content">
-                    <span><i class="fab fa-whatsapp"></i> legendmc.com.br</span>
-                    <a href="discord.gg"><i class="fab fa-whatsapp"></i> Discord</a>
+                    <span><i class="fa-solid fa-info-circle" aria-hidden="true"></i> Legendmc.com.br</span>
+                    <a href="discord.gg"><i class="fa-brands fa-discord"></i> Discord</a>
                 </div>
             </div>
         </div>

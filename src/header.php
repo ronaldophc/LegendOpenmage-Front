@@ -34,36 +34,35 @@
             <div class="container">
                 <div class="content">
                     <span><i class="fa-solid fa-info-circle" aria-hidden="true"></i> Legendmc.com.br</span>
-                    <a href="discord.gg"><i class="fa-brands fa-discord"></i> Discord</a>
+                    <a href="http://discord.gg"><i class="fa-brands fa-discord"></i> Discord</a>
                 </div>
             </div>
         </div>
         <nav class="navbar navbar-expand-lg">
             <div class="container">
 
-                <!-- Logo -->
                 <div class="logo">
                     <a href="http://localhost:8080/" title="LegendMC" class="logo">
                         <img src="https://placehold.co/100x30@2x.png?text=LegendMC" alt="LegendMC">
                     </a>
                 </div>
 
-                <!-- Navbar toggler button for mobile view -->
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-button-icon"><i class="fa-solid fa-bars"></i></span>
                 </button>
 
-                <!-- Navbar links (will collapse on smaller screens) -->
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item">
                             <a class="nav-link" href="#">
-                                <i class="fa-solid fa-circle-user"></i> Cadastrar
+                                <i class="fa-solid fa-circle-user"></i>
+                                 Cadastrar
                             </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">
-                                <i class="fas fa-sign-in-alt"></i> Entrar
+                                <i class="fas fa-sign-in-alt"></i>
+                                 Entrar
                             </a>
                         </li>
                     </ul>
